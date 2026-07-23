@@ -24,10 +24,12 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,4 +38,9 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
