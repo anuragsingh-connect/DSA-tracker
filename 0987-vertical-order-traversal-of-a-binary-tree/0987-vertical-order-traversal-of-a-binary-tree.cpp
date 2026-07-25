@@ -33,6 +33,7 @@ public:
     for (auto p: nodes){
         vector<int>tempo;
         for(auto q : p.second){
+            // why? used insert insted of pushback - >
             tempo.insert(tempo.end(),q.second.begin(),q.second.end());
         }
 
