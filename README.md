@@ -64,6 +64,7 @@ My DSA Journey Documetation
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -76,5 +77,10 @@ My DSA Journey Documetation
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
