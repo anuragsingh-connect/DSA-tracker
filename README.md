@@ -8,6 +8,7 @@ My DSA Journey Documetation
 | ------- |
 | [0001-two-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ My DSA Journey Documetation
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
