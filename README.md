@@ -85,4 +85,8 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
