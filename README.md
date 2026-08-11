@@ -7,6 +7,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
@@ -74,6 +75,7 @@ My DSA Journey Documetation
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
@@ -98,4 +100,8 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
