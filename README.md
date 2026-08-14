@@ -10,6 +10,7 @@ My DSA Journey Documetation
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 ## Counting
 |  |
