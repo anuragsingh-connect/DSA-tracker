@@ -10,10 +10,12 @@ My DSA Journey Documetation
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
@@ -24,6 +26,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -104,4 +107,13 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
