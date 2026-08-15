@@ -9,6 +9,7 @@ My DSA Journey Documetation
 | [0001-two-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -25,10 +26,12 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
