@@ -16,6 +16,7 @@ My DSA Journey Documetation
 | [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
+| [0875-koko-eating-bananas](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My DSA Journey Documetation
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0222-count-complete-tree-nodes) |
+| [0875-koko-eating-bananas](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
