@@ -11,6 +11,7 @@ My DSA Journey Documetation
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
