@@ -31,6 +31,7 @@ My DSA Journey Documetation
 | [0015-3sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
