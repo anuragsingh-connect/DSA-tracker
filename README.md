@@ -35,6 +35,7 @@ My DSA Journey Documetation
 | [0031-next-permutation](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ My DSA Journey Documetation
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ My DSA Journey Documetation
 | [0141-linked-list-cycle](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -151,6 +154,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
