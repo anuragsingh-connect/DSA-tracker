@@ -112,6 +112,7 @@ My DSA Journey Documetation
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -140,4 +141,8 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0032-longest-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
