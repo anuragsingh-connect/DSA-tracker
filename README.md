@@ -63,6 +63,7 @@ My DSA Journey Documetation
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -72,6 +73,7 @@ My DSA Journey Documetation
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -146,6 +148,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -160,4 +163,8 @@ My DSA Journey Documetation
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0142-linked-list-cycle-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
