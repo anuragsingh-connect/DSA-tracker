@@ -16,6 +16,7 @@ My DSA Journey Documetation
 | [0053-maximum-subarray](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ My DSA Journey Documetation
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -72,6 +74,7 @@ My DSA Journey Documetation
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -148,6 +151,7 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
 ## Bracket Sequences
 |  |
@@ -167,4 +171,8 @@ My DSA Journey Documetation
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anuragsingh-connect/DSA-tracker/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
